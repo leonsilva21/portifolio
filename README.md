@@ -1,4 +1,7 @@
-.![Captura de Tela (6)](https://github.com/user-attachments/assets/1c530eed-f26a-4825-8076-27520c995e48)
+🔗 [Acesse o site](https://portfolio-8y2y-git-main-leonsilva21s-projects.vercel.app/)
+
+🖼️ Visão geral
+
 
 Este repositório é um projeto básico em HTML, CSS e Bootstrap.
 
@@ -11,3 +14,8 @@ Ideal para iniciantes, serve como base para praticar desenvolvimento web ou inic
 O uso do Bootstrap facilita a estruturação de layouts adaptáveis para diferentes dispositivos
 
 Perfeito para quem busca simplicidade e facilidade de personalização.
+
+🚀 Deploy
+
+Site hospedado na Vercel, garantindo alto desempenho, segurança com SSL gratuito e integração com CI/CD.
+
